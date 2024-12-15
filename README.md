@@ -1,7 +1,8 @@
 # Battleship 
 
-## To Start the Game: 
-Run the following command: 
+## To Start the Game:
+1. Checkout code and run: npm install
+2. Run the following command: 
 npm run start-game
 
 ## About the Game
